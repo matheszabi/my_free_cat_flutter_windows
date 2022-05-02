@@ -25,3 +25,17 @@ for local: flutter run --web-renderer html
 
 After changing the command line for run:
 ![Windows screenshot](/screenshots/screenshot_web_renderer_html.png?raw=true "Optional Title")
+
+
+
+At the macosx web:
+![Windows screenshot](/screenshots/screenshot_web_macosx.png?raw=true "Optional Title")
+
+
+
+The iOS:
+![Windows screenshot](/screenshots/screenshot_ios.png?raw=true "Optional Title")
+
+The macos screenshot:
+![Windows screenshot](/screenshots/screenshot_macos.png?raw=true "Optional Title")
+
