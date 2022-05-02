@@ -32,9 +32,10 @@ At the macosx web:
 ![Windows screenshot](/screenshots/screenshot_web_macosx.png?raw=true "Optional Title")
 
 
-
 The iOS:
+
 ![Windows screenshot](/screenshots/screenshot_ios.png?raw=true "Optional Title")
+
 
 The macos screenshot:
 ![Windows screenshot](/screenshots/screenshot_macos.png?raw=true "Optional Title")
